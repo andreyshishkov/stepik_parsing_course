@@ -1,3 +1,5 @@
+# create dictionary, keys are headers of table from parsed site, values - sum of numbers in columns
+
 import requests
 from bs4 import BeautifulSoup
 
