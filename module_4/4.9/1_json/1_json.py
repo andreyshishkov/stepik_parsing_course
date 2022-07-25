@@ -34,7 +34,7 @@ for page_href in tqdm(page_hrefs):
         fields = [x['id'] for x in item_soup.find('ul', id='description').find_all('li')]
         description = item_soup.find('ul', id='description')
         for field in fields:
-            value = description.find('li', id=field).text.split()[1]
+            value = description.find('li', id=field).text.split(': ')[1]
             item[field] = value
 
         json_items.append(item)
