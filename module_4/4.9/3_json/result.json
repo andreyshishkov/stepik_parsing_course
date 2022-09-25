@@ -1,0 +1,610 @@
+[
+    {
+        "category": "mouse",
+        "name": "Проводная игровая мышь Vampire RGB",
+        "article": "80563851",
+        "description": {
+            "brand": "Defender",
+            "model": "Vampire RGB",
+            "type": "Мышь проводная",
+            "gaming": "Да",
+            "light": "есть",
+            "size": "135.5x68x27 мм",
+            "dpi": "10000",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "140",
+        "price": "1610 руб",
+        "old_price": "1710 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_1.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Defender Halo Z GM-430L",
+        "article": "80244227",
+        "description": {
+            "brand": "Defender",
+            "model": "Halo Z GM-430L",
+            "type": "Мышь проводная",
+            "gaming": "Да",
+            "light": "н/д",
+            "size": "12.5 x 4.0 x 6.2 см",
+            "dpi": "3200",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "87",
+        "price": "550 руб",
+        "old_price": "1550 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_2.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь беспроводная Defender Shark 2 чёрный USB",
+        "article": "80530370",
+        "description": {
+            "brand": "Defender",
+            "model": "Shark 2",
+            "type": "USB + радиоканал",
+            "gaming": "Да",
+            "light": "н/д",
+            "size": "12.5 x 4.0 x 6.2 см",
+            "dpi": "3200",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "65",
+        "price": "1480 руб",
+        "old_price": "1980 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_3.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Defender sTarx GM-390L чёрный USB",
+        "article": "80244229",
+        "description": {
+            "brand": "Defender",
+            "model": "sTarx GM-390L",
+            "type": "USB",
+            "gaming": "Да",
+            "light": "RGB",
+            "size": "12.3 x 4.1 x 8.0 см",
+            "dpi": "3200",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "55",
+        "price": "730 руб",
+        "old_price": "1230 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_4.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Defender Skull GM-180L чёрный USB",
+        "article": "80039351",
+        "description": {
+            "brand": "Defender",
+            "model": "Skull GM-180L",
+            "type": "USB",
+            "gaming": "Да",
+            "light": "Нет",
+            "size": "-",
+            "dpi": "3200",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "55",
+        "price": "485 руб",
+        "old_price": "985 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_5.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Defender Killer GM-170L чёрный USB 52170",
+        "article": "80039353",
+        "description": {
+            "brand": "Defender",
+            "model": "Killer GM-170L",
+            "type": "USB",
+            "gaming": "Да",
+            "light": "переливающаяся",
+            "size": "-",
+            "dpi": "3200",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "15",
+        "price": "550 руб",
+        "old_price": "1550 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_6.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Defender Ghost GM-190L чёрный USB 52190",
+        "article": "80039354",
+        "description": {
+            "brand": "Defender",
+            "model": "Ghost GM-190L",
+            "type": "USB",
+            "gaming": "Да",
+            "light": "переливающаяся",
+            "size": "-",
+            "dpi": "3200",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "25",
+        "price": "600 руб",
+        "old_price": "1250 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_7.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Defender Witcher GM-990 чёрный USB",
+        "article": "80369131",
+        "description": {
+            "brand": "Defender",
+            "model": "Witcher GM-990",
+            "type": "USB",
+            "gaming": "Да",
+            "light": "есть",
+            "size": "-",
+            "dpi": "3200",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "25",
+        "price": "730 руб",
+        "old_price": "930 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_8.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
+        "article": "80553232",
+        "description": {
+            "brand": "Logitech",
+            "model": "G305 LIGHTSPEED Wireless Gaming Mouse - LILAC",
+            "type": "USB + радиоканал",
+            "gaming": "Да",
+            "light": "нет",
+            "size": "62.15x38.20x116.60 мм",
+            "dpi": "12000",
+            "site of manufacturer": "www.logitech.com"
+        },
+        "in stock": "25",
+        "price": "8920 руб",
+        "old_price": "10920 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_9.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Logitech G102 LIGHTSYNC Gaming LILAC",
+        "article": "80554448",
+        "description": {
+            "brand": "Logitech",
+            "model": "G102 LIGHTSYNC Gaming LILAC",
+            "type": "USB, Оптическая светодиодная",
+            "gaming": "Да",
+            "light": "нет",
+            "size": "-",
+            "dpi": "8000",
+            "site of manufacturer": "www.logitech.com"
+        },
+        "in stock": "25",
+        "price": "4350 руб",
+        "old_price": "5350 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_10.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь Logitech G PRO HERO Black USB проводная",
+        "article": "80247044",
+        "description": {
+            "brand": "Logitech",
+            "model": "G PRO HERO",
+            "type": "USB",
+            "gaming": "Да",
+            "light": "есть",
+            "size": "62x38x117 мм",
+            "dpi": "16000",
+            "site of manufacturer": "www.logitech.com"
+        },
+        "in stock": "55",
+        "price": "5100 руб",
+        "old_price": "5900 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_11.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Logitech G402 Hyperion Fury",
+        "article": "8675403",
+        "description": {
+            "brand": "Logitech",
+            "model": "G PRO HERO",
+            "type": "USB",
+            "gaming": "Да",
+            "light": "есть",
+            "size": "136x72x41 мм",
+            "dpi": "4000",
+            "site of manufacturer": "www.logitech.com"
+        },
+        "in stock": "27",
+        "price": "4400 руб",
+        "old_price": "5000 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_12.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь беспроводная STM 109CW чёрный USB",
+        "article": "86275403",
+        "description": {
+            "brand": "STM",
+            "model": "109CW",
+            "type": "USB радиоканал",
+            "gaming": "Нет ",
+            "light": "есть",
+            "size": "122х69х39 мм",
+            "dpi": "1000",
+            "site of manufacturer": "www.stm-electronics.ru"
+        },
+        "in stock": "127",
+        "price": "455 руб",
+        "old_price": "500 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_13.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Defender MB-986 чёрный USB",
+        "article": "80603934",
+        "description": {
+            "brand": "Defender",
+            "model": "MB-986",
+            "type": "USB",
+            "gaming": "Нет ",
+            "light": "есть",
+            "size": "- ",
+            "dpi": "1600",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "550",
+        "price": "270 руб",
+        "old_price": "400 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_14.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Gembird MG-520 чёрный USB",
+        "article": "80216417",
+        "description": {
+            "brand": "Gembird",
+            "model": "MG-520",
+            "type": "USB",
+            "gaming": "Нет ",
+            "light": "Нет",
+            "size": "123 х 69 х 41 мм ",
+            "dpi": "3200",
+            "site of manufacturer": "www.gembird.ruф"
+        },
+        "in stock": "150",
+        "price": "720 руб",
+        "old_price": "850 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_15.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная CBR CM 846 Armor чёрный USB",
+        "article": "80606384",
+        "description": {
+            "brand": "CBR",
+            "model": "CM 846 Armor",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "123 х 69 х 41 мм ",
+            "dpi": "4800",
+            "site of manufacturer": "www.cbr-products.ru"
+        },
+        "in stock": "99",
+        "price": "790 руб",
+        "old_price": "999 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_16.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Гарнизон GM-720G чёрный USB",
+        "article": "80166285",
+        "description": {
+            "brand": "CBR",
+            "model": "GM-720G",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "126 x 85 x 38 мм ",
+            "dpi": "2400",
+            "site of manufacturer": "www.garnizon.su"
+        },
+        "in stock": "81",
+        "price": "600 руб",
+        "old_price": "860 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_17.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Гарнизон GM-700G чёрный USB",
+        "article": "80148902",
+        "description": {
+            "brand": "Гарнизон",
+            "model": "GM-700G",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "113 x 62 x 39 мм ",
+            "dpi": "1600",
+            "site of manufacturer": "www.garnizon.su"
+        },
+        "in stock": "21",
+        "price": "425 руб",
+        "old_price": "560 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_18.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Гарнизон GM-760G чёрный USB",
+        "article": "80148901",
+        "description": {
+            "brand": "Гарнизон",
+            "model": "GM-760G",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "135 x 72 x 38 мм ",
+            "dpi": "2000",
+            "site of manufacturer": "www.garnizon.su"
+        },
+        "in stock": "61",
+        "price": "610 руб",
+        "old_price": "960 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_19.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Гарнизон GM-730G чёрный USB",
+        "article": "80148484",
+        "description": {
+            "brand": "Гарнизон",
+            "model": "GM-730G",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "135 x 71 x 37 мм ",
+            "dpi": "2400",
+            "site of manufacturer": "www.garnizon.su"
+        },
+        "in stock": "41",
+        "price": "580 руб",
+        "old_price": "840 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_20.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная Гарнизон GM-620G чёрный USB",
+        "article": "80148483",
+        "description": {
+            "brand": "Гарнизон",
+            "model": "GM-620G",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "117x 77 x 32 мм ",
+            "dpi": "1600",
+            "site of manufacturer": "www.garnizon.su"
+        },
+        "in stock": "121",
+        "price": "385 руб",
+        "old_price": "500 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_21.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Мышь проводная A4TECH Bloody Q51 чёрный USB",
+        "article": "80090478",
+        "description": {
+            "brand": "A4TECH",
+            "model": "Bloody Q51",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "126x73x40 мм ",
+            "dpi": "3200",
+            "site of manufacturer": "www.bloody.com"
+        },
+        "in stock": "91",
+        "price": "1320 руб",
+        "old_price": "1500 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_22.html"
+    },
+    {
+        "category": "mouse",
+        "name": "MGK-03U Dialog Gan-Kata - игровая",
+        "article": "80234480",
+        "description": {
+            "brand": "Dialog",
+            "model": "MGK-03U Gan-Kata",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "123x69x33 мм ",
+            "dpi": "1600",
+            "site of manufacturer": "www.dialoginvest.com"
+        },
+        "in stock": "50",
+        "price": "260 руб",
+        "old_price": "420 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_23.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Defender Flash MB-600L",
+        "article": "80244813",
+        "description": {
+            "brand": "Defender",
+            "model": "Flash MB-600L",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "123x69x33 мм ",
+            "dpi": "1200",
+            "site of manufacturer": "www.defender.ru"
+        },
+        "in stock": "160",
+        "price": "245 руб",
+        "old_price": "400 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_24.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Gembird MG-550",
+        "article": "80244813",
+        "description": {
+            "brand": "Gembird",
+            "model": "MG-550",
+            "type": "USB",
+            "gaming": "нет ",
+            "light": "нет",
+            "size": "120 х 65 х 40 мм ",
+            "dpi": "3200",
+            "site of manufacturer": "www.gembird.ru"
+        },
+        "in stock": "60",
+        "price": "830 руб",
+        "old_price": "1000 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_25.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Lenovo Legion M200 RGB Gaming Mouse",
+        "article": "80538807",
+        "description": {
+            "brand": "Lenovo",
+            "model": "Legion M200",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "40x71x123 мм ",
+            "dpi": "2400",
+            "site of manufacturer": "www.lenovo.com"
+        },
+        "in stock": "36",
+        "price": "1460 руб",
+        "old_price": "1620 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_26.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Sven RX-G750 чёрный USB",
+        "article": "80558868",
+        "description": {
+            "brand": "Sven",
+            "model": "RX-G750",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "130x67x40 мм ",
+            "dpi": "6400",
+            "site of manufacturer": "www.sven.fi"
+        },
+        "in stock": "86",
+        "price": "1590 руб",
+        "old_price": "1620 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_27.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Wired Gaming Mouse ",
+        "article": "80529373",
+        "description": {
+            "brand": "Canyon",
+            "model": "-",
+            "type": "USB",
+            "gaming": "нет ",
+            "light": "нет",
+            "size": "- ",
+            "dpi": "3200",
+            "site of manufacturer": "www.canyon.ru"
+        },
+        "in stock": "54",
+        "price": "960 руб",
+        "old_price": "1220 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_28.html"
+    },
+    {
+        "category": "mouse",
+        "name": "MSI Clutch GM08 ",
+        "article": "80563231",
+        "description": {
+            "brand": "MSI",
+            "model": "Clutch GM08",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "128 х 68.5 х 40.5 мм ",
+            "dpi": "4200",
+            "site of manufacturer": "www.msi.com"
+        },
+        "in stock": "94",
+        "price": "1690 руб",
+        "old_price": "2220 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_29.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Gembird MG-760 ",
+        "article": "80564137",
+        "description": {
+            "brand": "Gembird",
+            "model": "MG-760",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "62x38x115 мм ",
+            "dpi": "3200",
+            "site of manufacturer": "www.gembird.ru"
+        },
+        "in stock": "57",
+        "price": "640 руб",
+        "old_price": "1220 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_30.html"
+    },
+    {
+        "category": "mouse",
+        "name": "MGK-11U Dialog Gan-Kata ",
+        "article": "80564156",
+        "description": {
+            "brand": "Dialog",
+            "model": "MGK-11U",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "118х76х38 мм ",
+            "dpi": "2400",
+            "site of manufacturer": "www.dialoginvest.com"
+        },
+        "in stock": "27",
+        "price": "435 руб",
+        "old_price": "690 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_31.html"
+    },
+    {
+        "category": "mouse",
+        "name": "Logitech G102 LIGHTSYNC ",
+        "article": "80413190",
+        "description": {
+            "brand": "Logitech",
+            "model": "G102 LIGHTSYNC",
+            "type": "USB",
+            "gaming": "да ",
+            "light": "да",
+            "size": "118х76х38 мм ",
+            "dpi": "8000",
+            "site of manufacturer": "www.logitech.com"
+        },
+        "in stock": "127",
+        "price": "2180 руб",
+        "old_price": "2890 руб",
+        "link": "https://parsinger.ru/html/mouse/3/3_32.html"
+    }
+]
