@@ -31,4 +31,3 @@ with webdriver.Chrome(options=options) as browser:
         except AttributeError:
             continue
 print(addition)
-
