@@ -4,7 +4,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 url = "http://parsinger.ru/infiniti_scroll_3/"
 options = webdriver.ChromeOptions()
-# options.headless = True
+options.headless = True
 
 
 def get_value_from_window(driver, scroll_container, idx):
